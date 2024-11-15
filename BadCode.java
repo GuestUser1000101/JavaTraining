@@ -26,13 +26,12 @@ public class BadCode {
             System.out.println(what is intB?);
             String intB = scanner.nextInt();
 
-            if intA > 0 and intB > 0 and (intA + intB = 948 and intA + intB % 2 = 0) {
+            if intA > 0 and intB > 0 and (intA + intB = 948 and intA + intB % 2 = 0):
                 for (10) {
                     System.out.println(approvalMessage);
                 }
                 isLoopBroken = True
-            } otherwise {
+            otherwise:
                 System.out.println(disapprovalMessage);
-            }
     }
 }
